@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "654fe89ea328d5363672de86"
+  },
+  "judge": "Julian Rodriguez",
+  "gameplay": "8",
+  "art": "6",
+  "sound": "5",
+  "theme_affinity": "7",
+  "total": "26",
+  "game_id": {
+    "$oid": "65406d16943d9a44bfd96975"
+  }
+},
+{
+  "_id": {
+    "$oid": "654feeffa328d5363672de87"
+  },
+  "judge": "Julieta Martinez",
+  "gameplay": "7",
+  "art": "7",
+  "sound": "9",
+  "theme_affinity": "8",
+  "total": "31",
+  "game_id": {
+    "$oid": "65406d16943d9a44bfd96975"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fef1aa328d5363672de88"
+  },
+  "judge": "Alejandro Diaz",
+  "gameplay": "6",
+  "art": "6",
+  "sound": "8",
+  "theme_affinity": "8",
+  "total": "28",
+  "game_id": {
+    "$oid": "65406d16943d9a44bfd96975"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fef28a328d5363672de89"
+  },
+  "judge": "Leandro Garcia",
+  "gameplay": "9",
+  "art": "9",
+  "sound": "7",
+  "theme_affinity": "8",
+  "total": "33",
+  "game_id": {
+    "$oid": "65406d16943d9a44bfd96975"
+  }
+},
+{
+  "_id": {
+    "$oid": "654fef37a328d5363672de8a"
+  },
+  "judge": "Sofia Fernandez",
+  "gameplay": "5",
+  "art": "7",
+  "sound": "8",
+  "theme_affinity": "7",
+  "total": "27",
+  "game_id": {
+    "$oid": "65406d16943d9a44bfd96975"
+  }
+}]

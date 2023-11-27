@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6540692a943d9a44bfd9696f"
+  },
+  "name": "Julian Rodriguez"
+},
+{
+  "_id": {
+    "$oid": "6540692a943d9a44bfd96970"
+  },
+  "name": "Julieta Martinez"
+},
+{
+  "_id": {
+    "$oid": "6540692a943d9a44bfd96971"
+  },
+  "name": "Alejandro Diaz"
+},
+{
+  "_id": {
+    "$oid": "6540692a943d9a44bfd96972"
+  },
+  "name": "Leandro Garcia"
+},
+{
+  "_id": {
+    "$oid": "6540692a943d9a44bfd96973"
+  },
+  "name": "Sofia Fernandez"
+}]
